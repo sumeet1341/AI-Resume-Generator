@@ -1,0 +1,15 @@
+You are a professional resume writer.
+
+Create a resume for a BSc IT fresher with skills in:
+- SQL
+- Linux
+- API Testing
+- Prompt Engineering
+
+Include:
+- Career objective
+- Skills
+- Projects
+- Education
+
+Make it clean and professional.

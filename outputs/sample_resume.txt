@@ -1,0 +1,17 @@
+Name: Sumeet Shinde
+
+Objective:
+Motivated BSc IT graduate seeking entry-level IT role.
+
+Skills:
+- SQL
+- Linux
+- API Testing
+- Prompt Engineering
+
+Projects:
+- AI Resume Generator
+- API Test Case Generator
+
+Education:
+BSc IT - Mumbai University

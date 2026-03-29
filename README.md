@@ -1,23 +1,21 @@
-# AI-Resume-Generator
+# 🤖 AI Resume Generator
 
-## 📌 Description
-This project uses prompt engineering to generate professional resumes using AI tools like ChatGPT.
+## 📌 Overview
+This project uses prompt engineering to generate professional resumes for freshers using AI tools.
 
 ## 🚀 Features
-- Generate resumes for freshers
-- Optimized prompts for better output
-- Multiple formats
+- Resume generation using structured prompts
+- Optimized outputs
+- Easy to customize
+
+## 📂 Project Structure
+- prompts/ → contains input prompts
+- outputs/ → generated resumes
+- docs/ → explanation of project
 
 ## 🛠️ Tools Used
 - ChatGPT
 - Prompt Engineering
-
-## 📂 Files
-- prompts.txt
-- sample-output.txt
-
-## 📸 Sample Prompt
-"Create a professional resume for a BSc IT fresher with SQL, Linux, and API testing skills"
 
 ## 👨‍💻 Author
 Sumeet Shinde
