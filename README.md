@@ -1,5 +1,4 @@
 # AI-Resume-Generator
-# AI Resume Generator
 
 ## 📌 Description
 This project uses prompt engineering to generate professional resumes using AI tools like ChatGPT.
